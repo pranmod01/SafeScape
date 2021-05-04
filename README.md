@@ -8,7 +8,7 @@ Introducing SafeScape, an application to help you feel safer while traveling or 
 
 Our platform is built based on the Google Maps API and a similar algorithm to Waze.
 
-## Features included
+## Features currently included
 - Incorporates the Google Maps User Interface
 - Identifies the user’s current location
 - Allows them to input their destination goal
@@ -17,8 +17,11 @@ Our platform is built based on the Google Maps API and a similar algorithm to Wa
 
 ## Files included
 1. map.html 
-2. analysis.ipynb
-3. crime_data.json
+  - includes the html code for the features listed above with the help of the Google Maps API
+2. crime_data.json
+  - contains crime information from San Francsico; collected from Kaggle
+3. analysis.ipynb
+  - includes initial data analysis, cleaning, and a short intro to the recommendation model of the crime dataset
 
 ## Future Path
 Currently, our code is still undergoing bugging and addition processes and is not complete for stand-on use. We aim to continue working on our features to release a beta product soon. Some features that we expect to be incorporating in the future are an establish application user interface compatible with Android and iOS, security buttons, access to the user's emergency contacts, and many more. 
