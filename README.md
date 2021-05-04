@@ -1,6 +1,6 @@
 # SafeScape
 
-By Pranati Modumudi, Varshini Sitarama, Danielle Egan
+### By Pranati Modumudi, Varshini Sitarama, Danielle Egan
 
 How might college students and local citizens be enabled to find safer walking routes based on areas of recent crime and verbal harassment so that they are more comfortable traveling alone?
 
