@@ -19,7 +19,7 @@ Our platform is built based on the Google Maps API and a similar algorithm to Wa
 1. map.html 
   - includes the html code for the features listed above with the help of the Google Maps API
 2. crime_data.json
-  - contains crime information from San Francsico; collected from Kaggle
+  - contains crime information from Los Angeles; collected from Kaggle
 3. analysis.ipynb
   - includes initial data analysis, cleaning, and a short intro to the recommendation model of the crime dataset
 
